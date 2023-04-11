@@ -2,7 +2,7 @@
 title: "Custom Dice and Cube"
 excerpt: "Fusion designed aluminum cube and dice milled with a CNC."
 header:
-  image: /assetjs/img/LF3DP-Banner-2.jpg
+  image: /assets/img/BadAleaDicePic.jpg
   teaser: /assets/img/Large-Format-3D-Printer-Thumbnail.png
 gallery:
   - image_path: assets/img/Slide-3.png
