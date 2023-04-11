@@ -3,11 +3,8 @@ title: "Custom Dice and Cube"
 excerpt: "Fusion designed aluminum cube and dice milled with a CNC."
 header:
   image: /assets/img/BadAleaDicePic.jpg
-  teaser: /assets/img/Large-Format-3D-Printer-Thumbnail.png
-gallery:
-  - image_path: assets/img/Slide-3.png
-  - image_path: assets/img/Slide-2.png
-  - image_path: assets/img/Slide-4.png
+  teaser: /assets/img/BadAleaDicePic.jpg
+
    
 ---
 
@@ -31,4 +28,4 @@ Learning these things, amongst others, was a great experience and I am appreciat
 # CAD Model of Custom Cube
 <iframe src="https://vanderbilt436.autodesk360.com/shares/public/SH512d4QTec90decfa6ebf4e188126ec7f81?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
-{% include gallery caption="Large Format 3D Printer Gallery" %}
+
