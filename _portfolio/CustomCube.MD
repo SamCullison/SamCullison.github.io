@@ -2,7 +2,7 @@
 title: "Custom Dice and Cube"
 excerpt: "Fusion designed aluminum cube and dice milled with a CNC."
 header:
-  image: /assets/img/LF3DP-Banner-2.jpg
+  image: /assetjs/img/LF3DP-Banner-2.jpg
   teaser: /assets/img/Large-Format-3D-Printer-Thumbnail.png
 gallery:
   - image_path: assets/img/Slide-3.png
@@ -13,9 +13,17 @@ gallery:
 
 # Introduction to Modeling and Manufacturing
 
-* **Massive Print Area: 1140 x 1200 x 1100 mm.** With a build envelop just shy of 4 feet in all dimensions, the LF3DP is capable of printing furniture and other large objects.
-* **High Volumetric Output Extruder: 1 kg/hr - 450 C.** This printer come standard with a MDPH2 extruder by Massive Dimension, which can extrude at a rate of 1 kg/hr. Unlike typical filament extruders, the MDPH2 uses a screw to convey and liquify plastic pellets before the molten material is pushed out of a large nozzle (1 to 5 mm extrusion diameter). Please note: This printer can also be configured for other high flow rate extruders, such as the Typhoon and Pulsar by Dyze Design.
-* **Affordable Pellet Feedstock** Pellets are the cheapest form of feedstock for any plastic-based manufacturing process. Save 50-75% of material costs by using pellets instead of spools of filament. Concentrated colorant can be added to the virgin material to achieve any color in the rainbow without requiring large amounts of storage. Recyled material can also be used for sustainable material printing.
+With the help and guidance of Dr. Brian O'Grady I learned how to use Fusion and the CNC to create two cubes from aluminum stock. The first is a my "alea iacta est" dice ("the die has been cast" in latin) and the second is a larger cube with a more intracate design. This process showed me the intracacies of tool selection and generating tool paths for CNC projects. In the future I hope to make more complex objects with biological research applications.
+
+# Lessons Learned
+
+Although I had operated the CNC before, creating a model proved to be much less straightforward. Here are some of the lessons I learned:
+* 90 degree lines are not feasible designs to manufacture. Before realizing this I designed my second cube to contain many small decorative lines, and after Fusion would not generate the tool  paths I deleted the lines from the design (and subsequently decided on the CAD below). 
+* The importance of bit selection and specification (speeds and feeds) did not hit me until generating my own tool paths. Not only is it the only way to reach the finish you desire, but it also mitigates the risk associated with bit breakage. 
+* Selecting how your object is milled is a key way to save time. For the second cube, I was creating tool paths to mill one "level" at a time on each face. While this would have worked, it was inferior to using a pocket clearance with the bottom level selected. This simple tweak in procedure saved me a lot of time and showed me that there are elegant and inelegant ways to mill objects. 
+
+Learning these things, amongst others, was a great experience and I am appreciative that I was able to learn such a useful new skill. 
+
 
 # CAD Model of Dice
 <iframe src="https://vanderbilt436.autodesk360.com/shares/public/SH512d4QTec90decfa6e521368d0d5bb8b00?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
