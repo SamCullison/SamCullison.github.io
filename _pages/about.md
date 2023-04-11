@@ -28,4 +28,4 @@ Competitive intelligence marketing internship. Detailed analysis of 20+ competit
  
 * As an Eagle Scout, Sam loves being active in the outdoors. Hiking, swimming, fishing and archery are some of his favorite past times. He also enjoys playing basketball with friends and playing movie soundtracks(Interstellar, Inception, ect.) on the piano.
 
-<img src="/assets/img/SamCullison_Headshot.jpg" alt="Sam Cullison" style="width:200px;"/>
+<img src="/assets/img/Indv Lockheed Photo.jpg" alt="Sam Cullison" style="width:200px;"/>
