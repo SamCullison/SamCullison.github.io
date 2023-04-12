@@ -2,11 +2,10 @@
 title: "Science Everyday"
 excerpt: "Relevant science based articles created by Sam Cullison"
 header:
-  image: /assets/img/Cyber-Scooter-Banner.jpg
   teaser: /assets/img/scienceeverydayheader.jpg
 gallery:
-  - url: /assets/img/differencesbetweenopiates.jpg
-    image_path: assets/img/differencesbetweenopiates.jpg
+  - url: /assets/img/Differencesbetweenopiates.jpg
+    image_path: assets/img/Differencesbetweenopiates.jpg
     alt: "placeholder image 1"
   - url: /assets/img/howdoesanesthesiawork.jpg
     image_path: assets/img/howdoesanesthesiawork.jpg
