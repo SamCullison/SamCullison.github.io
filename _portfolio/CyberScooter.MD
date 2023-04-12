@@ -1,9 +1,9 @@
 ---
-title: "Cyber Scooter"
-excerpt: "This custom electric vehicle can reach speeds of up 30 MPH and has a range of over 50 miles!"
+title: "Science Everyday"
+excerpt: "Relevant science based articles created by Sam Cullison"
 header:
   image: /assets/img/Cyber-Scooter-Banner.jpg
-  teaser: /assets/img/Cyber-Scooter-TH.jpg
+  teaser: /assets/img/scienceeverydayheader.jpg
 gallery:
   - url: /assets/img/Cyber-Scooter-1.jpg
     image_path: assets/img/Cyber-Scooter-1.jpg
@@ -20,6 +20,7 @@ During my winter break in 2022 I decided to start a blog. This blog would encaps
 
 Picking topics to write about also further cemented my curiosity for pharmaceuticals. I loved writing about anesthetics (which led to me shadowing an anesthesiologist) and the COVID vaccines, and this is when I really knew that I wanted to be involved with these compounds after gradutation.
 
+While school and my internship got in the way of my production of articles. I look forward to exploring my growing bank of questions come this Summer.
 
 
 {% include gallery caption="This is a sample gallery to go along with this case study." %}
