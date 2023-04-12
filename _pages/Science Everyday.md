@@ -11,7 +11,7 @@ header
 
 # Explore Science Everyday
 
-* Explore <a href="https://scienceeveryday.godaddysites.com/"> Visit Science Everyday </a>
+* Explore <a href="https://scienceeveryday.godaddysites.com/"> Science Everyday </a>
 
 # The Daily
 * Introduction
