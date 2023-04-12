@@ -1,5 +1,5 @@
 ---
-title: "Example Web Page"
+title: "Sam Cullison's Projects and Information"
 layout: splash
 header:
   overlay_color: "#000"
