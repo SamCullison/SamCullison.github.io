@@ -3,7 +3,7 @@ title: "Custom Dice and Cube"
 excerpt: "Fusion designed aluminum cube and dice milled with a CNC."
 header:
   teaser: /assets/img/AleaGoodPic.jpg
-
+  image: /assets/img/AleaGoodPic.jpg
    
 ---
 
