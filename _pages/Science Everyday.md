@@ -15,6 +15,7 @@ title: "Science Everyday"
 
 # The Daily
 <img src="/assets/img/ScienceEverydayTime.png" alt="Time" style="width:1000px;"/>
+
 * **Introduction**
 * To be brief, although time is a vital component in our lives, physicists often dispute if it is truly a fundamental part of reality and the mechanics of the universe. What time is defined as and why such claims arise will be discussed below.
 
