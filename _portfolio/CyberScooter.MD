@@ -14,8 +14,7 @@ gallery:
   - url: /assets/img/Cyber-Scooter-3.jpg
     image_path: assets/img/Cyber-Scooter-3.jpg
     alt: "placeholder image 3"
-links: 
-  - url: "https://scienceeveryday.godaddysites.com/"
+
 
 ---
 
@@ -25,10 +24,6 @@ Picking topics to write about also further cemented my curiosity for pharmaceuti
 
 While school and my internship got in the way of my production of articles. I look forward to exploring my growing bank of questions come this Summer.
 
-  links:
-    -label: "Science Everyday Blog"
-     url: "https://scienceeveryday.godaddysites.com/"
-     
 
 
 {% include gallery caption="This is a sample gallery to go along with this case study." %}
