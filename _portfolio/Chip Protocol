@@ -3,12 +3,14 @@ title: "Chip Protocol"
 excerpt: "Protocol for making Hydrogel chips from PDMS"
 header:
   teaser: /assets/img/MicrofluidicChipPic.jpg
-  image: /assets/img/Microfluidic Chip Protocol.pdf
-  
-gallery:
-  - image_path: assets/img/Microfluidic Chip Protocol.pdf
-
+  image: /assets/img/MicrofluidicChipPic.jpg
+ 
 ---
 
-*Throughout my time in the Lippmann Lab, I have produced 20+ hydrogel chips. With the right equipment and materials hydrogel chips can be made using the following protocol.
 
+With instruction from Dr. Brain O'Grady I created my PDMS hydrogel in September 2023. To take this product further the hydrogel was plasma bonded to a glass slide, resulting in the 
+creation of a microfluidic device. This protocol assumes that a mold has already been created and that the correct materials and equipment have been acquired. 
+
+Following this protocol has allowed me to create over 25 microfluidic chips with high success. The link to the PDF follows
+
+<a href="assets/img/Microfluidic Chip Protocol.pdf" target="_blank">Open the Protocol.</a>
