@@ -16,13 +16,19 @@ Both syntheses share commonalities, such as the use of an acid halide as the fin
 
 Phenyl-ethyl-4-ANPP
 <img src="/assets/img/chemsynpic1.jpg" alt="Phenyl-ethyl-4-ANPP" style="width:200px;"/>
-*Phenyl-ethyl-4-ANPP*
+*{% include image.html
+    img src="/assets/img/chemsynpic1.jpg" <!-- absolute URL to image file -->
+    alt="Jekyll's logo" <!-- alt text -->
+    caption="Phenul " <!-- Caption -->
+%}
 
 * Industrial Route
+
 <img src="/assets/img/chemsynpic2.jpg" alt="Phenyl-ethyl-4-ANPP" style="width:500px;"/>
 
 * Proposed Route
-<img src="/assets/img/chemsynpic3.jpg" alt="Phenyl-ethyl-4-ANPP" style="width:500px;"/>
+
+<img src="/assets/img/chemsynpic3.jpg" alt="Phenyl-ethyl-4-ANPP" style="width:700px;"/>
 
 # Senior Capstone Lab Module: 
 Obtain dean stark trap and place 1 eq of 4-piperidinone in a 50 mL round bottom flask with a boiling chip. Place heating mantle under dean stark trap, attach condenser (with water tubes attached) to top of dean stark. Fill dean stark trap half full of NaCl solution. Add 1.1 eq of aniline, 1.1 equivalents of toluene and 3 drops of concentrated H2SO4 to the round bottom and attach it to the Dean Stark. Heat reaction until the condensation of water slows down or the volume of water stops increasing. Remove round bottom flask. Add 1 eq of SOCl2, 1.1 eq of phenyl acetic acid, and 10mL of pyridine (solvent) to a new round bottom flask and reflux for 15 minutes. Cool product to room temperature and add 1 eq of water. Mix for 1 hour. Perform a fractional distillation (BP target 94 C) with this product and collect distilled compound in angled receiving flask. 
