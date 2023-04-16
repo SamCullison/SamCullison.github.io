@@ -15,13 +15,14 @@ currently used. I chose fentanyl because of its recent publicity with the opoid 
 Both syntheses share commonalities, such as the use of an acid halide as the final step, as well as the use of aniline to add a phenyl group to the compound via the creation of an imine. However, the two routes also differ in a few keyways. One such variation is the alkylation of the secondary amine (present in 4-peperidone) via reaction with 2 bromo-ethyl benzene. However, due to the increasing nucleophilicity of amines as substitution increases, dialkylation is a possible and likely. This will lead to a mixture of products and thus is not favorable. In the proposed synthesis the tertiary amine is generated from the reduction of an amide, and thus no unexpected products will occur as a result. Another major negative in the Siegfried synthesis is the possible production of the side product phenethyl-4-ANPP. This compound was identified in April 2019 and since then has spread and been found across the United States in fentanyl samples. Current hypotheses believe it is especially prevalent when the Siegfried method reactants are combined in a single step. This product is not synthesized as a byproduct in the proposed method due to the ethyl-phenyl group being introduced in the form of a acid halide. This halide creates an amide at one location (due to its inability to react with an imine) and then is reduced. Therefore, the phenyl-ethyl will be added once during the procedure (as opposed to twice in the formation of phenyl-ethyl-4-ANPP). Although 4-ANPP is thought to be relatively inactive in-vivo, the research is obviously very new and regardless, any impurity in a fentanyl sample is to be handled carefully.  
 
 Phenyl-ethyl-4-ANPP
-<img src="/assets/img/chemsynpic1.jpg" alt="Phenyl-ethyl-4-ANPP" style="width:250px;"/>
+<img src="/assets/img/chemsynpic1.jpg" alt="Phenyl-ethyl-4-ANPP" style="width:200px;"/>
+*Phenyl-ethyl-4-ANPP*
 
 * Industrial Route
-<img src="/assets/img/chemsynpic2.jpg" alt="Phenyl-ethyl-4-ANPP" style="width:250px;"/>
+<img src="/assets/img/chemsynpic2.jpg" alt="Phenyl-ethyl-4-ANPP" style="width:500px;"/>
 
 * Proposed Route
-<img src="/assets/img/chemsynpic3.jpg" alt="Phenyl-ethyl-4-ANPP" style="width:250px;"/>
+<img src="/assets/img/chemsynpic3.jpg" alt="Phenyl-ethyl-4-ANPP" style="width:500px;"/>
 
 # Senior Capstone Lab Module: 
 Obtain dean stark trap and place 1 eq of 4-piperidinone in a 50 mL round bottom flask with a boiling chip. Place heating mantle under dean stark trap, attach condenser (with water tubes attached) to top of dean stark. Fill dean stark trap half full of NaCl solution. Add 1.1 eq of aniline, 1.1 equivalents of toluene and 3 drops of concentrated H2SO4 to the round bottom and attach it to the Dean Stark. Heat reaction until the condensation of water slows down or the volume of water stops increasing. Remove round bottom flask. Add 1 eq of SOCl2, 1.1 eq of phenyl acetic acid, and 10mL of pyridine (solvent) to a new round bottom flask and reflux for 15 minutes. Cool product to room temperature and add 1 eq of water. Mix for 1 hour. Perform a fractional distillation (BP target 94 C) with this product and collect distilled compound in angled receiving flask. 
