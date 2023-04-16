@@ -1,5 +1,5 @@
 ---
-title: "Science Everyday"
+title: "Science Every Week"
 excerpt: "Relevant science based articles created by Sam Cullison"
 header:
   teaser: /assets/img/scienceeverydayheader.jpg
@@ -19,9 +19,9 @@ gallery:
 
 * Picking topics to write about also further cemented my curiosity for pharmaceuticals. I loved writing about anesthetics (which led to me shadowing an anesthesiologist) and the COVID vaccines, and this is when I really knew that I wanted to be involved with these compounds after gradutation.
 
-* While school and my internship got in the way of my production of articles. I look forward to exploring my growing bank of questions come this Summer.
+* While school and my internship halted my production of articles. I look forward to exploring my growing bank of questions come this Summer.
 
-** Explore the Science Everyday Tab to find the most recent article, or click below to explore the website! Hope you enjoy
+** Explore the Science Every Week Tab to find the most recent article, or click below to explore the website! Hope you enjoy
 
 * <a href="https://scienceeveryday.godaddysites.com/"> Visit Science Everyday </a>
 
