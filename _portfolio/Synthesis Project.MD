@@ -15,12 +15,9 @@ currently used. I chose fentanyl because of its recent publicity with the opoid 
 Both syntheses share commonalities, such as the use of an acid halide as the final step, as well as the use of aniline to add a phenyl group to the compound via the creation of an imine. However, the two routes also differ in a few keyways. One such variation is the alkylation of the secondary amine (present in 4-peperidone) via reaction with 2 bromo-ethyl benzene. However, due to the increasing nucleophilicity of amines as substitution increases, dialkylation is a possible and likely. This will lead to a mixture of products and thus is not favorable. In the proposed synthesis the tertiary amine is generated from the reduction of an amide, and thus no unexpected products will occur as a result. Another major negative in the Siegfried synthesis is the possible production of the side product phenethyl-4-ANPP. This compound was identified in April 2019 and since then has spread and been found across the United States in fentanyl samples. Current hypotheses believe it is especially prevalent when the Siegfried method reactants are combined in a single step. This product is not synthesized as a byproduct in the proposed method due to the ethyl-phenyl group being introduced in the form of a acid halide. This halide creates an amide at one location (due to its inability to react with an imine) and then is reduced. Therefore, the phenyl-ethyl will be added once during the procedure (as opposed to twice in the formation of phenyl-ethyl-4-ANPP). Although 4-ANPP is thought to be relatively inactive in-vivo, the research is obviously very new and regardless, any impurity in a fentanyl sample is to be handled carefully.  
 
 Phenyl-ethyl-4-ANPP
+
 <img src="/assets/img/chemsynpic1.jpg" alt="Phenyl-ethyl-4-ANPP" style="width:200px;"/>
-*{% include image.html
-    img src="/assets/img/chemsynpic1.jpg" <!-- absolute URL to image file -->
-    alt="Jekyll's logo" <!-- alt text -->
-    caption="Phenul " <!-- Caption -->
-%}
+
 
 * Industrial Route
 
