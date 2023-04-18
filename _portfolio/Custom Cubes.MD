@@ -9,13 +9,13 @@ header:
 
 # Introduction to Modeling and Manufacturing
 
-With the help and guidance of Dr. Brian O'Grady I learned how to use Fusion and the CNC to create two cubes from aluminum stock. The first is a my "alea iacta est" dice ("the die has been cast" in latin) and the second is a larger cube with a more intracate design. This process showed me the intracacies of tool selection and generating tool paths for CNC projects. In the future I hope to make more complex objects with biological research applications.
+With the help and guidance of Dr. Brian O'Grady I learned how to use Fusion and the CNC to create two cubes from aluminum stock. The first is a my "alea iacta est" dice ("the die has been cast" in latin) and the second is a smaller cube with a more intricate design. These beginning projects showed me the importance of tool selection and generating tool paths for CNC projects. In the near future I will produce more complex objects with biological research applications.
 
 # Lessons Learned
 
 Although I had operated the CNC before, creating a model proved to be much less straightforward. Here are some of the lessons I learned:
-* 90 degree lines are not feasible designs to manufacture. Before realizing this I designed my second cube to contain many small decorative lines, and after Fusion would not generate the tool  paths I deleted the lines from the design (and subsequently decided on the CAD below). 
-* The importance of bit selection and specification (speeds and feeds) did not hit me until generating my own tool paths. Not only is it the only way to reach the finish you desire, but it also mitigates the risk associated with bit breakage. 
+* 90 degree lines are not feasible designs to manufacture. Before realizing this I designed my second cube with many small decorative lines, but after Fusion would not generate the tool  paths the lines were excluded (leading me to the final CAD below). 
+* The importance of bit selection and specification (speeds and feeds) was not clear to me until I generated my own tool paths. Not only are tool paths the only way to reach the finish you desire, but they also mitigate the risk of bit breakage. 
 * Selecting how your object is milled is a key way to save time. For the second cube, I was creating tool paths to mill one "level" at a time on each face. While this would have worked, it was inferior to using a pocket clearance with the bottom level selected. This simple tweak in procedure saved me a lot of time and showed me that there are elegant and inelegant ways to mill objects. 
 
 Learning these things, amongst others, was a great experience and I am appreciative that I was able to learn such a useful new skill. 
