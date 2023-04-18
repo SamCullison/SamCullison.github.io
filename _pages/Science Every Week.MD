@@ -1,16 +1,16 @@
 ---
 
-title: "Science Everyday"
+title: "Science Every Week"
 
 ---
 
-# The Purpose of Science Everyday
+# The Purpose of Science Every Week
 
-* Created to explore and share my own interests, Science Everyday provides articles written by me which any user can enjoy and learn from. Sources are listed below each article if you are eager to learn more. 
+* Created to explore and share my own interests, Science Every Week provides articles written by me which any user can enjoy and learn from. Sources are listed below each article if you are eager to learn more. 
 
-# Explore Science Everyday
+# Explore Science Every Week
 
-* Explore <a href="https://scienceeveryday.godaddysites.com/"> Science Everyday </a>
+* Explore <a href="https://scienceeveryday.godaddysites.com/"> Science Every Week </a>
 
 
 # The Daily
