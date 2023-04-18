@@ -23,9 +23,6 @@ feature_row:
     excerpt: "Organic Chemistry synthesis project"
 
 
-
-
 ---
 
-
-
+{% include feature_row %}
