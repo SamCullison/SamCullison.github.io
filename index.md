@@ -10,17 +10,17 @@ header:
       url: "/portfolio/"
 excerpt: "Sam Cullison is a Sophomore chemical engineering major at Vanderbilt University. He is passionate about drug mechanism of action and the biotechnology industry"
 feature_row:
-  - image_path: assets/img/stockphoto1.jpg
-    alt: "CNC Mill"
-    title: "Custom CNC Milling Machine"
-    excerpt: "Built for fabricating aluminum and steel parts."
-  - image_path: assets/img/Plasma-Cutter-Banner.jpg
-    alt: "placeholder image 2"
-    title: "DIY Plasma Cutter"
-    excerpt: "A hot plasma stream slices through sheet metal."
-  - image_path: assets/img/Zidex-Thumbnail.jpg
-    title: "Bespoke IDEX 3D Printer"
-    excerpt: "Multimaterial printing. "
+  - image_path: /assets/img/AleaGoodPic.jpg
+    alt: "Custom Dice"
+    title: "CNC milled dice"
+    excerpt: "CAD generated and CNC milled custom dice"
+  - image_path: /assets/img/Differencesbetweenopiates.jpg
+    alt: "Science Every Week Blog"
+    title: "Difference Between Opiates and NSAIDS"
+    excerpt: "Blog article between the methods of action of analgesics"
+  - image_path: /assets/img/fentanyl image.png
+    title: "Fentanyl Synthesis Project"
+    excerpt: "Organic Chemistry synthesis project"
 
 
 
