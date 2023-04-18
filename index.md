@@ -8,7 +8,7 @@ header:
   actions:
     - label: "My Projects"
       url: "/portfolio/"
-excerpt: "Sam Cullison is a Sophomore chemical engineering major at Vanderbilt University. He is passionate about drug mechanism of action and the biotechnology industry"
+excerpt: "Sam Cullison is a Sophomore chemical engineering major at Vanderbilt University. He is passionate about drug mechanism of action and the biotechnology industry."
 feature_row:
   - image_path: /assets/img/AleaGoodPic.jpg
     alt: "Custom Dice"
