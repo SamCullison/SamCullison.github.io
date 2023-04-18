@@ -13,7 +13,7 @@ feature_row:
   - image_path: /assets/img/AleaGoodPic.jpg
     alt: "Custom Dice"
     title: "CNC milled dice"
-    excerpt: "Fusion generated custom dice milled with a CNC"
+    excerpt: "Fusion generated custom dice milled with a CNC."
   - image_path: /assets/img/differencesbetweenopiates2.png
     alt: "Science Every Week Blog"
     title: "Difference Between Opiates and NSAIDS"
