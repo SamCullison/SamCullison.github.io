@@ -14,7 +14,7 @@ feature_row:
     alt: "Custom Dice"
     title: "CNC milled dice"
     excerpt: "Fusion generated custom dice milled with a CNC."
-  - image_path: /assets/img/differencesbetweenopiates2.png
+  - image_path: /assets/img/Differencesbetweenopiates3.png
     alt: "Science Every Week Blog"
     title: "Difference Between Opiates and NSAIDS"
     excerpt: "Blog article comparing different analgesics and their methods of action."
