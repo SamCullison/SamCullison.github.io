@@ -24,5 +24,5 @@ gallery:
 
 ** Explore the Science Every Week Tab to find the most recent article, or click below to explore the website! Hope you enjoy.
 
-* <a href="https://scienceeveryday.godaddysites.com/"> Visit Science Everyday </a>
+* <a href="https://scienceeveryweek.godaddysites.com//"> Visit Science Every Week </a>
 
