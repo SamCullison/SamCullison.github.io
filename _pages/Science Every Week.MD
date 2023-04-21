@@ -10,7 +10,7 @@ title: "Science Every Week"
 
 # Explore Science Every Week
 
-* Explore <a href="https://scienceeveryday.godaddysites.com/"> Science Every Week </a>
+* Explore <a href="https://scienceeveryweek.godaddysites.com/"> Science Every Week </a>
 
 
 # The Daily
