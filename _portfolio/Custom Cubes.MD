@@ -28,6 +28,7 @@ Learning these things, amongst others, was a great experience and I am appreciat
 <iframe src="https://vanderbilt436.autodesk360.com/shares/public/SH512d4QTec90decfa6ebf4e188126ec7f81?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 # Custom Cube
+Below is the final iteration of the custom cube. It ended up being smaller than originally designed because of stock limits and the desire to make the contour cuts exact
 <img src="/assets/img/custom_dice.jpg" alt="Image of Custom Cube" style="width:500px;"/>
 
 
