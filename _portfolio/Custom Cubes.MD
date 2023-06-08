@@ -27,4 +27,6 @@ Learning these things, amongst others, was a great experience and I am appreciat
 # CAD Model of Custom Cube
 <iframe src="https://vanderbilt436.autodesk360.com/shares/public/SH512d4QTec90decfa6ebf4e188126ec7f81?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
+# Custom Cube
+image: /assets/img/custom_dice.jpg
 
