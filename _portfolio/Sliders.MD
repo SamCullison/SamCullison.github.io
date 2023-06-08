@@ -23,7 +23,7 @@ Althought the end product from the intial run is not what I wanted, I am happy w
 
 One Slider after First Iteration:
 
-<img src="/assets/img/Sliders_Phto.jpg" alt="Slider Photo" style="width:500px;"/>
+<img src="/assets/img/Sliders Phto.jpg" alt="Slider Photo" style="width:500px;"/>
 
 # Lessons Learned
 
