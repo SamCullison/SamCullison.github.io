@@ -2,8 +2,7 @@
 title: "Sliders Project"
 excerpt: "Fusion Designed Aluminum Sliders."
 header:
-  teaser: /assets/img/Sliders Phto.jpg
-  image: /assets/img/Sliders Phto.jpg
+  teaser: /assets/img/Sliders Screenshot.jpg
    
 ---
 
@@ -21,3 +20,8 @@ about creating the CAD and CAM to manufacture it with the CNC. However, this pro
 The cylinder base of the slider also proved to be difficult to machine with out current equipment. The arc did not provide a sufficient base for the mighty jaws, which I learned the hard way. In the future this design will be changed to have a sort of X that spans both cylindrical bases, as to provide a solid, straight surface for clamping. 
 
 Althought the end product from the intial run is not what I wanted, I am happy with the finish of the top being much better than those of my "custom cubes". Instead of facing off only with the 4 flute 3/8 end mill, a separate toolpath was generated to achieve a cleaner finish. This path used a 7 flute 3/8 square end mill at a lower feed rate and will be used in future projects. 
+
+One Slider after First Iteration:
+
+<img src="/assets/img/Sliders_Phto.jpg" alt="Phenyl-ethyl-4-ANPP" style="width:500px;"/>
+
