@@ -15,7 +15,7 @@ about creating the CAD and CAM to manufacture it with the CNC. However, this pro
 
 <iframe src="https://vanderbilt1024.autodesk360.com/shares/public/SH512d4QTec90decfa6ec16ac4eb3967ad91?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
-# Difficulites in Machining
+# Difficulties in Machining
 
 The cylinder base of the slider also proved to be difficult to machine with out current equipment. The arc did not provide a sufficient base for the mighty jaws, which I learned the hard way. In the future this design will be changed to have a sort of X that spans both cylindrical bases, as to provide a solid, straight surface for clamping. 
 
