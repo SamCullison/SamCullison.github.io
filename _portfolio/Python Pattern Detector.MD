@@ -16,4 +16,4 @@ What follows is an example run in which the constant addition, constant multipli
 The constant addition and multiplication are straightforwawrd. The iterative patterns are simply patterns such as +2, +3, -4 or *3, *2. Now the complex is where the program gets interesting, because it is able to continue a sequence with a pattern such as +2*3/2 and *(-5)-3. AN explanation for the functions that do this will follow below. 
 
 
-<img src="/assets/img/Python Examples.png" alt="Example Patterns" style="width:500px;"/>
+<img src="/assets/img/Python Examples.png" alt="Example Patterns" style="width:900px;"/>
