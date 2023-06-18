@@ -2,7 +2,7 @@
 title: "Pattern Detector Program"
 excerpt: "Python Program which generates subsequent numbers in a pattenr"
 header:
-  teaser: assets/Example_Patterns.jpg
+  teaser: /assets/img/Example_Patterns.jpg
    
 ---
 
