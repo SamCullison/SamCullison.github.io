@@ -38,3 +38,5 @@ Although the program works as I envisioned there are a couple details/functional
 
 # The Program Itself 
 The Pattern Detector program was made in Pycharm and a pdf of the code is available below.
+
+
