@@ -25,3 +25,16 @@ Given Input: 12, 25, 15, 45, 43, 87, 77, 231, 229, 459, 449, 898
 
 <img src="/assets/img/Complex Pattern Ex.png" alt="ex complex pattern" style="width:500px;"/>
 
+# How the Complex Pattern Works
+
+Defining the function to extend a complex pattern suprised me. Before testing the sequences I believed that the function would have to iterate through different variations of pattern differences and pattern multiples (using the list_difference() and list_multiplier() functions). I quickly learned that this was not the case, and that the function only had to use one difference of the original data, followed by a multiplier of this new list. Using these two lists and the original data proved to be enough. With these lists the program is able to use the mult to extend the lin, and then use the extended lin to generate the next number in the original sequence. The iterative part of the complex function needed much more work (the original list had to be broken down further before using the difference and multiplier functions), but the process was the same.
+
+# Future Work
+
+Although the program works as I envisioned there are a couple details/functionalities I would like to add..
+* First, the complex iterative capability requires 2x the pattern length to work properly. For example, a two step pattern (such as x2,-2) requires 4 input numbers. For a two step pattern this is not a big deal, but in the future I would like to change the program so that it requires the minimum amount of input. This is possible, and I know how to do it, it will just take changing the core code of the complex pattern
+* Second, I want this program to extend any pattern. Now there are good ways and bad ways to do this, but the complex pattern could augmented to perform this task with very minor changes. All it would take is assuming that the pattern is only what has been presented, nothing more and nothing less. For example is you wanted a pattern of *3,-2,+1 then all you would have to input is 1, 3, 1,2.
+* Finally, obviously the user can make simple addition and multiplication errors when putting their head pattern into the computer. In the future I would like to make the program capable of adjusting to slight deviations from a prescibed pattern, and thus carrying on as normal. Adding this will be the most difficult capability but I believe it will make the program much more useful.
+
+# The Program Itself 
+The Pattern Detector program was made in Pycharm and a pdf of the code is available below.
