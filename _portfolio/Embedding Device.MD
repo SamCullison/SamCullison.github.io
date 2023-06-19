@@ -6,3 +6,6 @@ header:
   image: /assets/img/Embedding Device Angle.jpg
    
 ---
+
+# Project Purpose
+This device was created to increase the success of embedding neurovascular tissue into microfluidic devices. For a constistent and 
