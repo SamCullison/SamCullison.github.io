@@ -30,8 +30,10 @@ The second iteration was designed to hold the chip firmly using a flat ended 3D 
 
 <iframe src="https://vanderbilt1024.autodesk360.com/shares/public/SH512d4QTec90decfa6e779611faeb0b60aa?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
+
+
 img src="/assets/img/Embedding Device Front.jpg" alt="Image of Embedding Device" style="width:500px;"/>
 
-img src="/assets/img/Embedding Device Back.jpg" alt="Image of Embedding Device" style="width:500px;"/>
+img src="/assets/img/Embedding_Device_Back.jpg" alt="Image of Embedding Device" style="width:500px;"/>
 
 
