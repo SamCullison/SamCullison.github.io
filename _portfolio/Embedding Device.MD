@@ -13,7 +13,25 @@ This device was created to increase the success of embedding neurovascular tissu
 # Creation of the Device
 The CAD for the chip holder was designed using Fusion 360. Subsequently after, it was printed using preform and an SLS printer that is housed in lab. This was my first time 3D printing and it was more straighforward than I anticipated. The device and each strap were printed at the same time and took 6 hours to finish. 
 Although everything printed and worked with the first iteration, more steps were taken with the actual design of the product. Specifically, 2 prior designs were generated before my mentor and myself were satisfied. The first and second CAD iterations follow. 
-* First Iteration of the Device
+* First Iteration:
+
 
 <iframe src="https://vanderbilt1024.autodesk360.com/shares/public/SH512d4QTec90decfa6eb1bf92de33c71c90?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+
+This first version of the device was designed to present the device at a certain height to the researcher. The long extended base in the back served to be a placement for the offhand forearm in order to steady the structure from tilting or wobbling.
+
+* Second Iteration
+
+<iframe src="https://vanderbilt1024.autodesk360.com/shares/public/SH512d4QTec90decfa6e5034344278aaff75?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+
+The second iteration was designed to hold the chip firmly using a flat ended 3D printed screw. Creating the accompanying threads was infeasible and the steadying pressure applied through the screw also could have messed up the microfluidics of the chip.
+
+*Final Iteration and Photos of the Printed Device
+
+<iframe src="https://vanderbilt1024.autodesk360.com/shares/public/SH512d4QTec90decfa6e779611faeb0b60aa?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+
+img src="/assets/img/Embedding Devie Front.jpg" alt="Image of EmbeddingDevice" style="width:500px;"/>
+
+img src="/assets/img/Embedding Devie Back.jpg" alt="Image of EmbeddingDevice" style="width:500px;"/>
+
 
