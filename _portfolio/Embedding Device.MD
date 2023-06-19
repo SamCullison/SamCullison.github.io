@@ -32,8 +32,8 @@ The second iteration was designed to hold the chip firmly using a flat ended 3D 
 
 
 
-img src="/assets/img/Embedding Device Front.jpg" alt="Image of Embedding Device" style="width:500px;"/>
+<img src="/assets/img/Embedding Device Front.jpg" alt="ex complex pattern" style="width:500px;"/>
 
-img src="/assets/img/Embedding_Device_Back.jpg" alt="Image of Embedding Device" style="width:500px;"/>
+img src="/assets/img/Embedding Device Back.jpg" alt="Image of Embedding Device" style="width:500px;"/>
 
 
