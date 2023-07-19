@@ -18,5 +18,6 @@ The main lesson I learned from creating this mold is the value of planning and p
 Another lesson I learned was the importance of height when using a SLA printer. The original mold I created was much taller than the end product, and ,as SLA is a height limited production method, I was advised to make . By lowering the device (and making it one piece instead of two) I decreased the printing time by more than an hour. 
 
 # CAD of the Original Mold
+<iframe src="https://vanderbilt1024.autodesk360.com/shares/public/SH512d4QTec90decfa6e98ab8991e975b955?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
-# CAD After Two Parameter Changes
+
