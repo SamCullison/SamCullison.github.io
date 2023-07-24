@@ -1,8 +1,8 @@
 ---
 title: "Synthesis Project"
-excerpt: "Organic Chemistry proposed synthesis route of Fentanyl."
+excerpt: "Organic Chemistry proposed synthesis route project."
 header:
-  teaser: /assets/img/chemsynpicf.png
+  teaser: /assets/img/chemsynpic3.jpg
 ---
 
 # About the Project 
