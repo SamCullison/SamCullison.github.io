@@ -17,7 +17,10 @@ This was the first continuous/parametrized CAD design I had created. Instead of 
 The main lesson I learned from creating this mold is the value of planning and parameters. A great deal of time is saved when the model's dimensions are conceived and recorded before the CAD software is used. Additionally, producing a continuous CAD design is a challenge and I enjoyed having to draw up equations that related dimensions to each other and the model as a whole. 
 Another lesson I learned was the importance of height when using a SLA printer. The original mold I created was much taller than the end product, and ,as SLA is a height limited production method, I was advised to make . By lowering the device (and making it one piece instead of two) I decreased the printing time by more than an hour. 
 
-# CAD of the Original Mold
+# CAD of the Original and Second Adjusted Molds
 <iframe src="https://vanderbilt1024.autodesk360.com/shares/public/SH512d4QTec90decfa6e98ab8991e975b955?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+
+<iframe src="https://vanderbilt1024.autodesk360.com/shares/public/SH512d4QTec90decfa6e799bf4f2222065b2?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+
 
 
