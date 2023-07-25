@@ -19,7 +19,7 @@ feature_row:
     title: "Difference Between Opiates and NSAIDS"
     excerpt: "Blog article comparing different analgesics and their methods of action."
   - image_path: /assets/img/fentanyl image.png
-    title: "Fentanyl Synthesis Project"
+    title: "Synthesis Project"
     excerpt: "Organic Chemistry project proposing a synthesis route for fentanyl and comparing it to the industrial process."
 
 
