@@ -18,7 +18,12 @@ Although the sketch is not extremely complicated, its size caused my computer to
 
 The sketch produced at the end is seen below.
 
-<img src="/assets/img/Embedding Device Front.jpg" alt="ex complex pattern" style="width:500px;"/>
+<img src="/assets/img/Diffusion Device Sketch.jp" alt="ex complex pattern" style="width:500px;"/>
 
-# Adding the Microfluidic Sketch to the Plate Templates
-Once the channels were created it was straightforward adding them to the templates for the extrusion moulder. 
+# Creation of the CAD using the Extrusion Mould Template
+Once the channels were created it was straightforward adding them to the templates for the extrusion moulder. The ball bearings are inserted into the spherical holes in order to align the plates perfectly once they brought together in the extrusion moulder. A cold slug well was ommitted from the project due to the channels' extremely thin profile. The CAD for the plates follows:
+
+<iframe src="https://vanderbilt1024.autodesk360.com/shares/public/SH512d4QTec90decfa6e9820b4fbe81c84a6?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+
+# The CAM
+
