@@ -7,7 +7,7 @@ header:
 ---
 
 # Project Purpose 
-This project was tasked to me by my Post Doc mentor in order to show the manufacturing ability of the CNC. Each set of plates can be used in an extrusion moulder, leading to rapid production of the chosen microfluidic device. In this case, the chosen device was a diffusion gradient generator. We will use this in the future to conduct tests in which brain organoids or stem cells are embedded into the wells at the bottom of the device. These cultures can then be exposed to varying gradients of growth factors or other bioactive molecules, thus provoking a unique reaction from each indivisual well. 
+This project was tasked to me by my Post Doc mentor in order to show the manufacturing ability of the CNC. Each set of plates can be used in an extrusion molder, leading to rapid production of the chosen microfluidic device. In this case, the chosen device was a diffusion gradient generator. We will use this in the future to conduct tests in which brain organoids or stem cells are embedded into the wells at the bottom of the device. These cultures can then be exposed to varying gradients of growth factors or other bioactive molecules, thus provoking a unique reaction from each indivisual well. 
 
 This project required a lot of work, but I really enjoyed creating something that serves an important purpose for my lab.
 
@@ -20,8 +20,8 @@ The sketch produced at the end is seen below.
 
 <img src="/assets/img/Diffusion Device Sketch.jpg" alt="ex complex pattern" style="width:500px;"/>
 
-# Creation of the CAD using the Extrusion Mould Template
-Once the channels were created it was straightforward adding them to the templates for the extrusion moulder. The ball bearings are inserted into the spherical holes in order to align the plates perfectly once they brought together in the extrusion moulder. A cold slug well was ommitted from the project due to the channels' extremely thin profile. The CAD for the plates follows:
+# Creation of the CAD using the Extrusion Mold Template
+Once the channels were created it was straightforward adding them to the templates for the extrusion molder. The ball bearings are inserted into the spherical holes in order to align the plates perfectly once they brought together. A cold slug well was ommitted from the project due to the channels' extremely thin profile. The CAD for the plates follows:
 
 <iframe src="https://vanderbilt1024.autodesk360.com/shares/public/SH512d4QTec90decfa6e9820b4fbe81c84a6?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
