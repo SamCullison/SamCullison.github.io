@@ -30,6 +30,7 @@ Pictures of the final product are provided below. A variety of finishing toolpat
 
 <img src="/assets/img/Diffusion Device Clamped.jpg" alt="ex complex pattern" style="width:500px;"/>
 <img src="/assets/img/Diffusion Device Channels Top.jpg" alt="ex complex pattern" style="width:500px;"/>
-<img src="/assets/img/Diffusion Device Both Top.jpg" alt="ex complex pattern" style="width:500px;"/>
+<img src="/assets/img/DIffusion Device Both Top.jpg" alt="ex complex pattern" style="width:500px;"/>
+
 
 
