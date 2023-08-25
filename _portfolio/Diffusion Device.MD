@@ -25,5 +25,11 @@ Once the channels were created it was straightforward adding them to the templat
 
 <iframe src="https://vanderbilt1024.autodesk360.com/shares/public/SH512d4QTec90decfa6e9820b4fbe81c84a6?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
+# Final Product
+Pictures of the final product are provided below. A variety of finishing toolpaths were used to achieve the final product and the desired finishes. Prior to this project I had next to no experience with the 3D toolpaths that Fusion360 provides. However, after learning through the help menu and youtube tutorials, I feel comfortable with selecting them and ajusting the settings as needed. The two setups used the Bore, Trace, Parallel, Scallop, and Adaptive Clearance paths.
+
+<img src="/assets/img/Diffusion Device Clamped.jpg" alt="ex complex pattern" style="width:500px;"/>
+<img src="/assets/img/Diffusion Device Channels Top.jpg" alt="ex complex pattern" style="width:500px;"/>
+<img src="/assets/img/Diffusion Device Both Top.jpg" alt="ex complex pattern" style="width:500px;"/>
 
 
