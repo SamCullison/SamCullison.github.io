@@ -10,14 +10,14 @@ header:
       url: "/portfolio/"
 excerpt: "Sam Cullison is a Sophomore chemical engineering major at Vanderbilt University. He is passionate about drug mechanism of action and the biotechnology industry."
 feature_row:
-  - image_path: /assets/img/AleaGoodPic.jpg
-    alt: "Custom Dice"
-    title: "CNC milled dice"
+  - image_path: /assets/img/Diffusion Device CNC.jpg
+    alt: "Diffusion Gradient Generator"
+    title: "CNC milled dice diffusion device"
     excerpt: "Fusion generated custom dice milled with a CNC."
   - image_path: /assets/img/Embedding Device Front.jpg
     alt: "Embedding Device"
     title: "Embedding Device"
-    excerpt: "3D printed device to assist with embedding tissue. Designed in Fusion 360"
+    excerpt: "3D printed device to assist with embedding tissue. Designed in Fusion 360."
   - image_path: /assets/img/fentanyl image.png
     title: "Synthesis Project"
     excerpt: "Organic Chemistry project proposing a synthesis route for a derivative and comparing it to the industrial process."
