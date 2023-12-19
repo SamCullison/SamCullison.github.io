@@ -20,6 +20,6 @@ Finally, you want engineered T cells to activate IL-12 expression in response to
 
 The project was originally presented by my group during our scheduled cell hacker presentation. Individual write ups followed for the final, and mine is attached below. Producing the elaborate mechanisms through which the proposed therapy works proved to be difficult, but overall the report offers a comprehensive view into what a CAR T cell is, how the proposed therapy works, and how the therapy will be benchmarked to validate success in trials and experiments. 
 
-<a href="username.github.io/assets/img/Cell Hacker Final Report .pdf" target="_blank">PDF.</a>
+<a href="assets/img/Cell Hacker Final Report .pdf" target="_blank">PDF.</a>
 
 
