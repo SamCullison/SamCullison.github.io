@@ -39,5 +39,5 @@ Although the program works as I envisioned there are a couple details/functional
 # The Program Itself 
 The Pattern Detector program was made in Pycharm and a pdf of the code is available below.
 
-<a href="/assets/Synthetic Biology Final Report.pdf" target="_blank">PDF.</a>
+<a href="SamCullison.github.io/Synthetic Biology Final Report.pdf" target="_blank">PDF.</a>
 
