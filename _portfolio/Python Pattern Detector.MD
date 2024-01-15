@@ -39,8 +39,8 @@ Although the program works as I envisioned there are a couple details/functional
 # The Program Itself 
 The Pattern Detector program was made in Pycharm and a pdf of the code is available below.
 
-<a href="SamCullison.github.io/Synthetic Biology Final Report.pdf" target="_blank">PDF.</a>
+<a href="assets/img/Pattern Code.pdf" target="_blank">PDF.</a>
 
-<object data="/assets/img/Pattern Code.pdf" width="1000" height="1000" type='application/pdf'></object>
+<object data="assets/img/Pattern Code.pdf" width="1000" height="1000" type='application/pdf'></object>
 
 
