@@ -41,3 +41,6 @@ The Pattern Detector program was made in Pycharm and a pdf of the code is availa
 
 <a href="SamCullison.github.io/Synthetic Biology Final Report.pdf" target="_blank">PDF.</a>
 
+<object data="/assets/img/Pattern Code.pdf" width="1000" height="1000" type='application/pdf'></object>
+
+
