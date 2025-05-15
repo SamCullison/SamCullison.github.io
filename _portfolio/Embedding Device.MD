@@ -1,10 +1,11 @@
 ---
-title: "Embedding Device"
+title:   "Embedding Device"
+layout:  project
+image:   "/assets/img/Embedding Device Front.jpg"
 excerpt: "Fusion designed and SLA Printed Device to Assist Tissue Embedding"
 header:
-  teaser: /assets/img/Embedding Device Front.jpg
-  image: /assets/img/Embedding Device Angled.jpg
-   
+  teaser: "/assets/img/Embedding Device Front.jpg"
+  image:  "/assets/img/Embedding Device Angled.jpg"
 ---
 
 # Project Purpose
