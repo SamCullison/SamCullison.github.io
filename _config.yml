@@ -280,5 +280,5 @@ compress_html:
   ignore:
     envs: development
 collections:
-  projects:
+    portfolio:
     output: true
