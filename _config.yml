@@ -207,7 +207,7 @@ defaults:
       path: "_portfolio"
       type: portfolio
     values:
-      layout: single
+      layout: project
       author_profile: false
       share: true
 
@@ -279,6 +279,3 @@ compress_html:
   clippings: all
   ignore:
     envs: development
-collections:
-    portfolio:
-    output: true
