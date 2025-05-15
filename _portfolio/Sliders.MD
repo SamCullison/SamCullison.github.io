@@ -1,9 +1,10 @@
 ---
-title: "Sliders Project"
+title:   "Sliders Project"
+layout:  project
+image:   "/assets/img/Sliders Screenshot.jpg"
 excerpt: "Fusion Designed Aluminum Sliders."
 header:
-  teaser: /assets/img/Sliders Screenshot.jpg
-   
+  teaser: "/assets/img/Sliders Screenshot.jpg"
 ---
 
 # Origin of the Sliders Project
