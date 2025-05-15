@@ -1,11 +1,13 @@
 ---
-title: "CAR T Cell Therapy Proposal"
+title:   "CAR T Cell Therapy Proposal"
+layout:  project
+image:   "/assets/img/CellHackerSolution.png"
 excerpt: "Synthetic Biology Final Project"
 header:
-  teaser: /assets/img/CellHackerSolution.png
-  image: /assets/img/CellHackerSolution.png
-   
+  teaser: "/assets/img/CellHackerSolution.png"
+  image:  "/assets/img/CellHackerSolution.png"
 ---
+
 
 # Introduction to the Cell Hacker Project
 
