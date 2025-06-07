@@ -1,11 +1,10 @@
 ---
-title:   "Custom Dice and Cube"              # your project’s title
-layout:  project                            # tells Jekyll which layout to use
-image:   "/assets/img/AleaGoodPic.jpg"      # thumbnail for the grid card
+title: "Custom Dice and Cube"
 excerpt: "Fusion designed aluminum cube and dice milled with a CNC."
-header:                                    # optional, leave if your detail layout uses it
-  teaser: "/assets/img/AleaGoodPic.jpg"
-  image:  "/assets/img/AleaGoodPic.jpg"
+header:
+  teaser: /assets/img/AleaGoodPic.jpg
+  image: /assets/img/AleaGoodPic.jpg
+   
 ---
 
 # Introduction to Modeling and Manufacturing
