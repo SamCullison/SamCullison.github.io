@@ -91,37 +91,3 @@ a {
   cursor: pointer;
   margin-left: 1rem;
 }
-/* ─── Projects Grid ───────────────────────────────── */
-.projects-grid {
-  margin: 3rem auto;
-  max-width: 900px;
-  padding: 0 1rem;
-}
-.projects-grid .grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
-  gap: 2rem;
-}
-.project-card {
-  border: 1px solid $border-color;
-  border-radius: 0.5rem;
-  overflow: hidden;
-  background: #fff;
-  transition: transform 0.2s, box-shadow 0.2s;
-}
-.project-card:hover {
-  transform: translateY(-4px);
-  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
-}
-.project-card img {
-  width: 100%;
-  display: block;
-}
-.project-card h3 {
-  margin: 0.75rem;
-  font-size: 1.1rem;
-}
-.project-card p {
-  margin: 0 0.75rem 1rem;
-  color: darken($text-color, 15%);
-}
