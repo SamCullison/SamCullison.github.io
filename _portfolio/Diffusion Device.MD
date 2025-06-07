@@ -1,11 +1,9 @@
 ---
-title:   "Diffusion Device"
-layout:  project
-image:   "/assets/img/Diffusion Device CNC.jpg"
+title: "Diffusion Device"
 excerpt: "Project demonstrating the ability of the CNC to create microfluidic devices"
 header:
-  teaser: "/assets/img/Diffusion Device CNC.jpg"
-  image:  "/assets/img/DIffusion Device Both Top.jpg"
+  teaser: /assets/img/Diffusion Device CNC.jpg
+  image: /assets/img/DIffusion Device Both Top.jpg
 ---
 
 # Project Purpose 
