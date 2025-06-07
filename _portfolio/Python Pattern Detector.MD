@@ -1,12 +1,10 @@
 ---
-title:   "Pattern Detector Program"
-layout:  project
-image:   "/assets/img/Example_Patterns.jpg"
-excerpt: "Python Program which generates subsequent numbers in a pattern"
+title: "Pattern Detector Program"
+excerpt: "Python Program which generates subsequent numbers in a pattenr"
 header:
-  teaser: "/assets/img/Example_Patterns.jpg"
+  teaser: /assets/img/Example_Patterns.jpg
+   
 ---
-
 
 # Origin of the Pattern Project
 
