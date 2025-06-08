@@ -8,7 +8,7 @@ header:
   actions:
     - label: "My Projects"
       url: "/portfolio/"
-excerpt: "Sam Cullison is a Junior chemical engineering major at Vanderbilt University. He is passionate about drug mechanism of action and the biotechnology industry."
+excerpt: "Sam Cullison is a graduated chemical engineer from Vanderbilt University. His is passionate for business management and biotechnology."
 feature_row:
   - image_path: /assets/img/Diffusion Device CNC.jpg
     alt: "Diffusion Gradient Generator"
