@@ -8,7 +8,7 @@ title: "About Sam Cullison"
 
 Sam Cullison is a chemical engineering graduate with a focus in biotechnology and business. Graduating magna cum laude with a GPA of 3.94, academic excellence was consistently shown across courses in college, and leadership was demonstrated in club leadership and engineering group projects. Sam's passion for biology is evident in his coursework in immunoengineering, synthetic biology, biomaterials for drug delivery, and biochemistry. Macroeconomics, corporate strategy, and business management classes were also taken, for interests sake, and showed Sam the engaging nature of breaking down big problems and solving organizational challenges. Overall, school was extremely rewarding and Sam intends to continue to learn at the same pace despite the end of formal lectures and classwork.
 
-## Experience 
+### Experience 
 
 # Product Solutions Engineer, Procter & Gamble — Mason, OH (May 2025 – Present)
 Sam supports P&G’s External Supply Solutions team in Oral Care, partnering with manufacturing, packaging, and process-engineering to optimize production lines, troubleshoot package-to-process handoffs, and drive continuous-improvement projects. He leverages his hands-on fabrication background and cross-functional communication skills to deliver scalable, cost-effective solutions.
