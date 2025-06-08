@@ -8,7 +8,7 @@ header:
   actions:
     - label: "My Projects"
       url: "/portfolio/"
-excerpt: "Sam Cullison is a graduated chemical engineer from Vanderbilt University. His is passionate for business management and biotechnology."
+excerpt: "Sam Cullison is a graduated chemical engineer from Vanderbilt University. His is passionate for business management and biotechnology and currently employed in engineering for Oral Care at Procter and Gamble."
 feature_row:
   - image_path: /assets/img/Diffusion Device CNC.jpg
     alt: "Diffusion Gradient Generator"
