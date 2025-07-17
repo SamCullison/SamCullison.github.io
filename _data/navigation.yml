@@ -6,6 +6,8 @@ main:
     url: /_pages/Science Every Week
   - title: "About"
     url: /_pages/about
+  - title: "Science Blog"
+    url: /_scienceblog
     
   # - title: "Sample Posts"
   #   url: /year-archive/
