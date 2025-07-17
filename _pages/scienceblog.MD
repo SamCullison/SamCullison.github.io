@@ -16,5 +16,6 @@ classes: wide
 * Explore <a href="https://scienceeveryweek.godaddysites.com/"> Science Every Week </a>
 
 
-# The Daily
-<img src="/assets/img/ScienceEverydayTime.png" alt="Time" style="width:1000px;"/>
+# The Daily: Time
+
+# Other Posts
